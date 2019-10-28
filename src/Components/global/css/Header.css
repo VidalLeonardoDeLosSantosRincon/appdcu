@@ -1,0 +1,15 @@
+.cabecera{
+	height: 50px;
+	background: white;
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+	color: rgba(0, 0, 0, 0.4);
+	margin:0  0 2px 0;
+    padding:0 25px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+a{
+	color: gray;
+}

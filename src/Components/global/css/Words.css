@@ -1,0 +1,60 @@
+.container2{
+    background:white;
+    height:500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:gray;
+    font-size: 30px;
+}
+
+.Formulario2{
+    background: white;
+    height: 400px;
+    width:60%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+    
+    display: flex;
+    justify-content: space-around;
+    align-items:flex-start;
+    flex-wrap: wrap;
+
+
+}
+
+.casilla2{
+    width:90%;
+    height: 150px;
+    margin:50px 0 0 0;
+    font-family: arial;
+    font-size: 30px;
+    color:gray;
+    padding:5px;
+    border-radius: 5px;
+    border:1px solid rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.boxbtn2{
+    
+    margin:-70px 0 0  0;
+    background:white;
+    width:70%;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.btn_2{
+    background: dodgerblue;
+    color:white;
+    border:none;
+    height: 50px;
+    width:200px;  
+    font-size: 18px;
+      
+}
+
